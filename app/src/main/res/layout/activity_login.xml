@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sp"
+    tools:context=".Login">
+    tools:context=".Signup">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500sp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/bg_singup"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="33sp"
+            android:text="Welcome To Login"
+            android:layout_marginTop="33sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@color/black"
+            />
+
+        <EditText
+            android:id="@+id/emailCD"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:layout_marginTop="90sp"
+            android:background="@drawable/ss"
+            android:textColor="@color/black"
+            android:ems="10"
+            android:hint="Email ID"
+            android:paddingLeft="22sp"
+            android:elevation="22sp"
+            android:inputType="textPersonName"
+            android:layout_marginBottom="33sp"
+            android:layout_marginLeft="12sp"
+            android:layout_marginRight="12sp"
+            android:textSize="24sp" />
+        <EditText
+            android:id="@+id/PasswordCD"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:layout_marginTop="24sp"
+            android:ems="10"
+            android:textColor="@color/black"
+            android:hint="Password"
+            android:layout_marginLeft="12sp"
+            android:paddingLeft="22sp"
+            android:layout_marginRight="12sp"
+            android:elevation="22sp"
+            android:inputType="textPersonName"
+            android:background="@drawable/ss"
+            android:textSize="24sp" />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/loginKD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:background="@drawable/but"
+            android:paddingLeft="90sp"
+            android:layout_marginTop="32sp"
+            android:elevation="22sp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:paddingRight="90sp"/>
+
+        <TextView
+            android:id="@+id/goToSig"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="160sp"
+            android:textColor="@color/black"
+
+            android:textSize="16sp"
+            android:layout_marginTop="9sp"
+            android:text="Create New Account!" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

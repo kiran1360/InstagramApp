@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/bg.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/bg_singup.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/but.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/circle.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/followactiv.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/ic_like.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/ic_notification.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/ic_three.xml" value="0.1" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/ll.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/pp.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/sp.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/ss.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/drawable/tt.xml" value="0.2265" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/activity_comment.xml" value="0.176" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/activity_edit2.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/activity_signup.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/comment_sample.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/dashboard.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/edit_sampe.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_chnage.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_edit_profile.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_like.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_notification.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_post.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/fragment_search.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/like_profile_sample.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/notification_sample.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/search_sample.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/shimmaerr.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/layout/story_degin.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/menu/item_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/menu/popup_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Avita/Desktop/Instagram/app/src/main/res/xml/tabs.xml" value="0.21784420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
